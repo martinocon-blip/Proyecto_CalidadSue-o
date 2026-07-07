@@ -6,8 +6,8 @@
 
 SnoreDetector snoreDetector;
 
-const char* ssid = "TPLink_F88C";
-const char* password = "MartinMatias2006";
+const char* ssid = "Nautilus";
+const char* password = "20000Leguas";
 
 
 const int MAX_ANALISIS = 100;
